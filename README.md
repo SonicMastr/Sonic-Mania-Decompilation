@@ -43,6 +43,9 @@ If you want to transfer your save from the official PC versions, you can just co
 # How to Build
 Most platforms will heavily encourage you to build it in conjunction with RSDKv5. However, there are some options available for some platforms if you wish to build separately.
 
+## PS Vita
+Follow the instructions at https://github.com/MisterSheeple/Sonic-Mania-Vita-Build-Guide/blob/main/README.md
+
 ## Windows
 Open SonicMania.sln and build the project you wish to build.
 * Projects ending with `All` use the generated `All.c` file in-place of compiling each object seperately. Use for faster compilation speed.
